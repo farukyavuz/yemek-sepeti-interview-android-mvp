@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="urn:oasis:names:tc:xliff:document:1.2">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@color/colorPrimaryDark</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="LoginEditTextTheme" parent="AppTheme">
+        <!--EditText hint color-->
+        <item name="android:textColorHint">@color/white</item>
+        <!-- TextInputLayout text color-->
+        <item name="colorControlActivated">@color/white</item>
+        <!-- EditText line color when EditText on-focus-->
+        <item name="colorControlHighlight">@color/white</item>
+        <!-- EditText line color when EditText  in un-focus-->
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="DetailEditTextTheme" parent="AppTheme">
+        <!--EditText hint color-->
+        <item name="android:textColorHint">@color/light_black</item>
+        <!-- TextInputLayout text color-->
+        <item name="colorControlActivated">@color/light_black</item>
+        <!-- EditText line color when EditText on-focus-->
+        <item name="colorControlHighlight">@color/light_black</item>
+        <!-- EditText line color when EditText  in un-focus-->
+        <item name="colorControlNormal">@color/light_black</item>
+    </style>
+
+    <style name="UserListCardViewStyle" parent="AppTheme">
+        <item name="cardCornerRadius">2dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="contentPaddingBottom">8dp</item>
+        <item name="contentPaddingTop">8dp</item>
+        <item name="contentPaddingLeft">8dp</item>
+        <item name="contentPaddingRight">8dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+        <item name="cardUseCompatPadding">true</item>
+    </style>
+
+
+</resources>
