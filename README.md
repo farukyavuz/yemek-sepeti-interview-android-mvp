@@ -12,12 +12,11 @@ Yemek sepeti interview android mvp pattern application.
 
 # Libraries
 
-```java
-**[OkHttp](https://github.com/square/okhttp)**
-**[Retrofit](https://github.com/square/retrofit)**
-**[Retrofit Gson Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson)**
-**[Butter Knife](https://github.com/JakeWharton/butterknife)**
-**[CircleImageView](https://github.com/hdodenhof/CircleImageView)**
-**[Picasso](https://github.com/square/picasso)**
-**[Retrolambda](https://github.com/evant/gradle-retrolambda)**
-```
+
+**[OkHttp](https://github.com/square/okhttp)**  
+**[Retrofit](https://github.com/square/retrofit)**  
+**[Retrofit Gson Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson)**  
+**[Butter Knife](https://github.com/JakeWharton/butterknife)**  
+**[CircleImageView](https://github.com/hdodenhof/CircleImageView)**  
+**[Picasso](https://github.com/square/picasso)**  
+**[Retrolambda](https://github.com/evant/gradle-retrolambda)**  
